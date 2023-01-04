@@ -1,3 +1,3 @@
-# Bruteforce_Mitigation_Added2FA
+# Bruteforce Mitigation with Added2FA
 Flask Website with Added 2FA
 
